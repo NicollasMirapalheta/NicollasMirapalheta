@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/NicollasMirapalheta">
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=NicollasMirapalheta&show_icons=true&theme=onedark&count_private=true&include_commits=true"/>
+  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=NicollasMirapalheta&show_icons=true&theme=onedark&count_private=true=true"/>
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasMirapalheta&layout=compact&langs_count=7&theme=onedark&count_private=true&include_commits=true"/>
 </div>
   
