@@ -1,12 +1,14 @@
 ### Oi, muito prazer, me chamo *Nicollas* e esse é meu perfil.
 
-
+============================================================================================
 
 <div align="center">
   <a href="https://github.com/NicollasMirapalheta">
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=NicollasMirapalheta&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasMirapalheta&layout=compact&langs_count=7&theme=onedark"/>
 </div>
+  
+============================================================================================
 
 <!--
 **NicollasMirapalheta/NicollasMirapalheta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
