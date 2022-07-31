@@ -11,7 +11,7 @@
   
 ====================================================================================
 
- 
+<!--
 # Linguagens:
 
  - Python (Avançado) # Possuo uma boa experiencia com a linguagem, apesar de não ter trabalhado profissionalmente com ela ainda.
@@ -27,3 +27,4 @@
  - Prolog (Basico) # Possuo experiencia nesta linguagem apenas na area de estatistica, pois tive que fazer uso dessa linguagem na cadeira do curso que estou.
  
  - Assembly (Basico) # Possuo pouca experiencia com essa linguagem e não tenho interesse em trabalhar usando ela.
+-–>
