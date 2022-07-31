@@ -12,17 +12,18 @@
 ====================================================================================
 
  
-<!--
-**NicollasMirapalheta/NicollasMirapalheta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Linguagens:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Python (Avançado) # Possuo uma boa experiencia com a linguagem, apesar de não ter trabalhado profissionalmente com ela ainda.
+ 
+ - HTML e CSS (Intermediario) # Não é linguagem de programação, mas ta diretamente ligado a desenvolvimento Web (Em sua maioria).
+ 
+ - JavaScript (Intermediario) # Possuo uma base boa e estou ganhando experiencia com a linguagem.
+ 
+ - React (Começando) # Estou começando meus estudos nesta linguagem no momento.
+ 
+ - R (Basico) # Possuo experiencia nesta linguagem apenas na area de estatistica, pois tive que fazer uso dessa linguagem na cadeira do curso que estou.
+ 
+ - Prolog (Basico) # Possuo experiencia nesta linguagem apenas na area de estatistica, pois tive que fazer uso dessa linguagem na cadeira do curso que estou.
+ 
+ - Assembly (Basico) # Possuo pouca experiencia com essa linguagem e não tenho interesse em trabalhar usando ela.
